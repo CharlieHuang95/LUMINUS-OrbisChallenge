@@ -1,0 +1,1052 @@
+[34038705] Using port 4461
+Server waiting for client
+Connected player with UUID JavaAI
+Assigned index 0 (Red)
+Server waiting for client
+Connected player with UUID PythonAI
+Assigned index 1 (Blue)
+[34041272] Initializing game...
+[0] JavaAI (Comm open) - sending GET_READY...
+[0] JavaAI (Comm open) - Ready!
+[1] PythonAI (Comm open) - sending GET_READY...
+[1] PythonAI (Comm open) - Ready!
+[34041824] Asking 0 for move
+[34041857] Asking 1 for move
+[34042059] Got 1's move
+[34042123] Got 0's move
+[34042123] ===== Move Frame 0 =========
+[34042123] ==============================
+...................
+...................
+...+...............
+..BB+..............
+...+...............
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...............-...
+..............-AA..
+...............-...
+...................
+...................
+[34042739] Asking 0 for move
+[34042739] Asking 1 for move
+[34042772] Got 0's move
+[34042789] Got 1's move
+[34042790] ===== Move Frame 1 =========
+[34042790] ==============================
+...................
+...................
+...+...............
+.B+BB..............
+...+...............
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...............-...
+..............AA-A.
+...............-...
+...................
+...................
+[34043413] Asking 0 for move
+[34043414] Asking 1 for move
+[34043431] Got 0's move
+[34043453] Got 1's move
+[34043463] ===== Move Frame 2 =========
+[34043464] ==============================
+...................
+...................
+.B.B...............
+.++B+B.............
+...+...............
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...............-...
+.............A-AA-.
+...............-.A.
+...................
+...................
+[34044070] Asking 0 for move
+[34044070] Asking 1 for move
+[34044083] Got 0's move
+[34044108] Got 1's move
+[34044109] ===== Move Frame 3 =========
+[34044109] ==============================
+...................
+...B...............
+B+.+.B.............
+.++B++.............
+...B...............
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...............-...
+.............-AA-A.
+.............A.-.-.
+.................A.
+...................
+[34044715] Asking 0 for move
+[34044715] Asking 1 for move
+[34044733] Got 0's move
+[34044756] Got 1's move
+[34044765] ===== Move Frame 4 =========
+[34044765] ==============================
+...................
+..B+...............
+++B+.+B...........B
+.++B++.............
+...B...............
+...B...............
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+...............-.A.
+.............A-AA-.
+.............-.-A-.
+.............A..A-.
+...................
+[34045371] PythonAI BUILT NEST AT (2, 2)
+[34045371] JavaAI BUILT NEST AT (16, 16)
+[34045372] Asking 1 for move
+[34045374] Asking 0 for move
+[34045385] Got 0's move
+[34045419] Got 1's move
+[34045429] ===== Move Frame 5 =========
+[34045429] ==============================
+..B................
+..B+...............
+++B+.++B..........+
+.++BB+............B
+...+...............
+..BB...............
+...................
+...................
+...................
+...................
+...................
+...................
+...................
+.................A.
+.............A.-.-.
+.............--AA-.
+.............-A-AA.
+.............-A.A-.
+...................
+[34046037] JavaAI BUILT NEST AT (14, 16)
+[34046038] Asking 0 for move
+[34046039] Asking 1 for move
+[34046069] Got 0's move
+[34046134] Got 1's move
+[34046144] ===== Move Frame 6 =========
+[34046144] ==============================
+.B+................
+.BB+...............
+++B+.+++..........+
+.++BBB.B.........B+
+...+...............
+..++B..............
+..B................
+...................
+...................
+...................
+...................
+...................
+...................
+.............A..A-.
+.............-.-A-.
+.............--AAA.
+.............AA-AAA
+.............-A.A-.
+...................
+[34046748] JavaAI BUILT NEST AT (16, 14)
+[34046749] Asking 0 for move
+[34046749] Asking 1 for move
+[34046792] Got 0's move
+[34046833] Got 1's move
+[34046842] ===== Move Frame 7 =========
+[34046842] ==============================
+B++................
+B++B...............
+++BB.+++.........B+
+.++BBB.+B........++
+...+BB.............
+..+++..............
+.B+.B..............
+...................
+...................
+...................
+...................
+...................
+...................
+.............-A.A-.
+.............-A-AA.
+.............--AA-.
+A...........AAA-AAA
+.............-A.A-.
+...................
+[34047447] PythonAI BUILT NEST AT (4, 4)
+[34047447] JavaAI BUILT NEST AT (14, 14)
+[34047448] Asking 0 for move
+[34047448] Asking 1 for move
+[34047484] Got 0's move
+[34047567] Got 1's move
+[34047568] ===== Move Frame 8 =========
+[34047568] ==============================
+B++...............B
++++BB..............
+++BBB+++B.......B++
+.++B+BB++........++
+...+BBB............
+.B+++..............
+.++.+B.............
+...................
+...................
+...................
+...................
+...................
+...................
+.............-A.A-.
+.............AAAA-A
+.............--A-A.
+A..........AAAA-A-A
+A............-A.A-.
+...................
+[34048177] PythonAI BUILT NEST AT (4, 2)
+[34048178] PythonAI BUILT NEST AT (6, 3)
+[34048179] Asking 1 for move
+[34048179] Asking 0 for move
+[34048247] Got 0's move
+[34048310] Got 1's move
+[34048320] ===== Move Frame 9 =========
+[34048320] ==============================
++++.B.............+
+++BBB...........B..
+++BBBB+++B......+++
+.++B++BB+........++
+...+BB+B...........
+B++++B.............
+.++.++B............
+...................
+...................
+...................
+...................
+...................
+................A..
+.............-AA--.
+A...........A-AAAA-
+...........AA--AA-.
+A..........AA-AAAA-
+A............-A.--.
+................A.B
+[34048926] JavaAI BUILT NEST AT (12, 15)
+[34048926] Asking 0 for move
+[34048926] Asking 1 for move
+[34048957] Got 0's move
+[34049021] Got 1's move
+[34049022] ===== Move Frame 10 =========
+[34049022] ==============================
+++B.+B..........A.+
+++BBBB..........+BB
+++B+BB++++B.....+++
+B+BB++BBB........++
+B..+BBB+B..........
+++++++B............
+.++.+++B...........
+...................
+...................
+...................
+...................
+................A..
+................-..
+A............-AAA-.
+-..........A-AAAAA-
+...........AAA-AA-.
+-A.........-AAAAA-A
+-A.........A.--A--.
+B...............-.+
+[34049629] PythonAI BUILT NEST AT (0, 3)
+[34049629] PythonAI BUILT NEST AT (18, 1)
+[34049630] Asking 0 for move
+[34049645] Asking 1 for move
+[34049718] Got 0's move
+[34049792] Got 1's move
+[34049792] ===== Move Frame 11 =========
+[34049792] ==============================
+++B.++B.........-AB
+++B++BB.........++B
+++B+BBB+B++.....+++
+BBBB++B+BBB......++
++..BB+B++B........B
+++++++B............
+.++.++++B..........
+...................
+...................
+...................
+................A..
+................-..
+A.............A.A..
+-..........A.-A-A-.
+-..........A--AAAA-
+...........AAAAAA-.
+A-A........-AAAAA--
+B-A........-.-A-A-.
++.B........A....-.+
+[34050397] PythonAI BUILT NEST AT (9, 3)
+[34050398] Asking 1 for move
+[34050398] Asking 0 for move
+[34050443] Got 0's move
+[34050528] Got 1's move
+[34050538] ===== Move Frame 12 =========
+[34050538] ==============================
+++B.++BB........--A
+a+++B+BBB.......+aa
++BB+B+B+B++.....++a
+BBBB++BB+BBB.....++
++..BB+BB++B......B+
++++B+++BB..........
+.++.+++++..........
+...................
+...................
+................A..
+................-..
+..............A.A..
+-..........A..A.A.A
+-..........-.-A-A-A
+-..........A-AAAAA-
+...........AA-AAA-.
+---........-AAAAAA-
+A-A........-A-A---.
++.B........-A...A.+
+[34051146] JavaAI DESTROYED OPPONENT'S NEST AT (18, 1)
+[34051146] PythonAI BUILT NEST AT (7, 1)
+[34051146] PythonAI BUILT NEST AT (7, 5)
+[34051146] JavaAI BUILT NEST AT (12, 17)
+[34051146] JavaAI BUILT NEST AT (18, 13)
+[34051147] Asking 0 for move
+[34051147] Asking 1 for move
+[34051262] Got 0's move
+[34051322] Got 1's move
+[34051332] ===== Move Frame 13 =========
+[34051332] ==============================
+A++.++B+B.......A-a
+a+++BBBBBB......+aa
+BBB+B++++B+.....++a
+BBBB++BBBB+BB....++
++BBBB+++B++B....B++
++++BB+BBBB.........
+.++.+++++..........
+...................
+................A..
+................-..
+................A..
+..............-AA..
+-..........-A.-A-.A
+-..........-A-AA-AA
+-..........A-AAAAA-
+...........AA-AAA-.
+---........-AAAAAA-
+---........-AAA---.
+A.A...B....-A...-.+
+[34051940] PythonAI BUILT NEST AT (2, 4)
+[34051940] JavaAI BUILT NEST AT (12, 13)
+[34051940] JavaAI BUILT NEST AT (15, 12)
+[34051941] Asking 0 for move
+[34051941] Asking 1 for move
+[34051993] Got 0's move
+[34052082] Got 1's move
+[34052083] ===== Move Frame 14 =========
+[34052083] ==============================
+A+A.B+BB+B......A-a
+ABB+B+BB+BB.....+aa
+BBBBB+++B+BB....++a
+BB+B++B+BBB++B...++
+BBB+B+B++B++B..B+++
++++BB++B+BB........
+.++.B+BB+..........
+................A..
+................-..
+................A..
+................A..
+..............-A-.A
+-..........-A.-AA.-
+A..........-AAAAAAA
+-..........AAAAAA-A
+...........AA-AAA-.
+---........-A-AAAA-
+---........-AA----.
+-.-...+B...-A...-.+
+[34052699] Asking 0 for move
+[34052699] Asking 1 for move
+[34052734] Got 0's move
+[34052831] Got 1's move
+[34052832] ===== Move Frame 15 =========
+[34052832] ==============================
+-+-.B+B+B+B.....A-a
+aBABB++BB+BB....+aa
+ABaBaa++B++BB...++a
+aaaaa+B++B+B++BBB+a
+BaaaaaB++B+++B.++++
+B+B+B+BBBB+B.......
+.++.B++++B......A..
+....B.BB........-..
+................A..
+................A..
+................-.A
+..............-A-.-
+-..........-A.AA-.-
+A..........AAAAAAAA
+A..........AAAA-A--
+...........AA-AAA-.
+---........-A-A-AA-
+---........AA--A--.
+-.-.B.B+B..-AA..-.+
+[34053445] JavaAI DESTROYED OPPONENT'S NEST AT (4, 2)
+[34053445] JavaAI DESTROYED OPPONENT'S NEST AT (2, 4)
+[34053445] JavaAI DESTROYED OPPONENT'S NEST AT (3, 3)
+[34053445] JavaAI DESTROYED OPPONENT'S NEST AT (4, 4)
+[34053445] JavaAI DESTROYED OPPONENT'S NEST AT (2, 2)
+[34053445] JavaAI DESTROYED OPPONENT'S NEST AT (0, 3)
+[34053446] PythonAI BUILT NEST AT (16, 3)
+[34053446] Asking 0 for move
+[34053446] Asking 1 for move
+[34053476] Got 0's move
+[34053574] Got 1's move
+[34053583] ===== Move Frame 16 =========
+[34053583] ==============================
+-+-.B++B+B+B....A-a
+a+BBa++B+B+BB...+aa
+BaaaaaB++B++BB.BB+a
+Aaaaa+B++BB+B++BB+a
+aaaaaa++++B+++B++++
+B+a+a+BBBBB+B...A..
+B+BBB+B+++B.....-..
+...BB.++B.......A..
+......B.........A..
+................-.A
+................-.-
+..............-A-.-
+-..........-A.-A-.-
+-..........-AAAAAAA
+A..........AA-A-A-A
+A..........AA-AA-AA
+---........-A-A-AA-
+---...B....AA---A-.
+-.-BB.+++B.-AAAA-.+
+[34054189] PythonAI BUILT NEST AT (3, 6)
+[34054189] JavaAI BUILT NEST AT (18, 15)
+[34054190] Asking 0 for move
+[34054191] Asking 1 for move
+[34054215] Got 0's move
+[34054340] Got 1's move
+[34054350] ===== Move Frame 17 =========
+[34054350] ==============================
+-+BB++++++B+..AAA-a
+a+B+a+BBB+B+BB.BBaa
+BaaaaaB+++B++BBBa+a
+aaaaa+B++B+B+B+aaaA
+Baaaaa+++B+B++++A++
+++a+a++B+BBB+BB.-..
+++BB++BB+++B....A.B
+..B+BB+++B......A..
+....BB+.........-.A
+................-.-
+................-.-
+..............-A-.-
+-..........-A.-A-.A
+A..........-AAAAAAA
+A..........AA-A-AA-
+A..........-A-AA--A
+A--........-A-A-AA-
+---BBB+....AA----A.
+-.-+BB+B++B-A---A.+
+[34054953] JavaAI DESTROYED OPPONENT'S NEST AT (16, 3)
+[34054953] PythonAI BUILT NEST AT (3, 0)
+[34054953] PythonAI BUILT NEST AT (5, 7)
+[34054953] PythonAI BUILT NEST AT (5, 18)
+[34054954] Asking 0 for move
+[34054954] Asking 1 for move
+[34055013] Got 0's move
+[34055141] Got 1's move
+[34055151] ===== Move Frame 18 =========
+[34055151] ==============================
+-+BB++B++++BA.--A-a
+B+a+a+BBBB+B++AABaa
+aaaaaaB++++B++B+a+A
+aaaaa+B++BB+B+BaAaa
+aaaaaa++++B+B+++a+B
+++a+a++B++BBB++B-..
++++B+++B++++BB..AB+
+..BB+B+B++B.....-.A
+..BB+B+.........-.-
+.....B..........-.-
+...............A-.-
+............A.-A-.A
+-..........-A.AA-.A
+-..........-AA-AAAA
+A..........A--AAA-A
+-..........-A-AAAAA
+AA-.BB.....-A-A-A--
+--B+BB+B...AA-A-A-.
+-.BB+B+++++BA----.+
+[34055756] Asking 0 for move
+[34055756] Asking 1 for move
+[34055796] Got 0's move
+[34055914] Got 1's move
+[34055914] ===== Move Frame 19 =========
+[34055915] ==============================
+BBBB++B+++++B.-A--a
+a+a+a+BBBBB+B+--AaA
+aaaaaa+++B++B+A+a+a
+aaaaa+B++B+B+++Aaaa
+aaaaaaB++++B++++aB+
+++a+a++B+++BB+++B..
+++BBB++B++++B+B.B+A
+..++BBBB+++BB...-.-
+.B++B+BB........-.-
+....B+.........A-.-
+............A..A-.A
+............A.-A-.A
+-..........-AA-A-AA
+A..........-AA-AA-A
+A.........A---A-A--
+A...B......-A-AA-AA
+--A.B+.....A--A-AAA
+-BBB++B+B..-A-----.
+-.+++BB++++AA-A-A.+
+[34056522] Asking 0 for move
+[34056522] Asking 1 for move
+[34056563] Got 0's move
+[34056650] Got 1's move
+[34056660] ===== Move Frame 20 =========
+[34056660] ==============================
+B++B++BB+++++.A-A-A
+a+a+a++B+BBB+B---Aa
+aaaaaaB++B+++B-Aa+a
+aaaaa+B++B++B+Aaaaa
+aaaaaa++++++B+++a++
+++a+a+BBB++B+++++B.
+ABBB++++B++B+B+B++-
+..++BBB+B++++B..-.-
+B+++B+B+B..B...A-.-
+....B+B.....A..A-.A
+....B.......A..A-.A
+............AA-A-AA
+-..........-A--A--A
+-.........AbbA-AA-A
+A.........--b-A-A-A
+-..B+......bAA-A-AA
+ABBA+BB...A-b-A-A-A
+-+++B+B++B.Abb--A-.
+BBBB+BB++++-B----.+
+[34057263] PythonAI DESTROYED OPPONENT'S NEST AT (12, 17)
+[34057263] PythonAI DESTROYED OPPONENT'S NEST AT (12, 13)
+[34057263] PythonAI DESTROYED OPPONENT'S NEST AT (12, 15)
+[34057263] PythonAI BUILT NEST AT (1, 18)
+[34057264] Asking 0 for move
+[34057264] Asking 1 for move
+[34057289] Got 0's move
+[34057425] Got 1's move
+[34057435] ===== Move Frame 21 =========
+[34057435] ==============================
++++B+++B+++++A----B
+a+a+a+BBB+BBB+B--aa
+aaaaaa++++B+++B-AAa
+aaaaa+BB+BB++A-aaaa
+aaaaaa+++++++B++a++
+++a+a++B+B++B+++++.
+-ABB++BB+B++B+B++B-
+B.+++B+B+B++++BA-.-
+++++BB+B+B.+A..A-.A
+....+B+B....A..A-.A
+...B+.......AA.A-AA
+............A--A--A
+-.........A-b--AA-A
+-.........-bAb-A--A
+A.........--b-A-A--
+-..B+B....AbAb-A-AA
+A+B-+++B..--b-A-A-A
+BBBA+B+B++BAbb--A-.
++B+B+B+B+++-bB--AAA
+[34058039] JavaAI BUILT NEST AT (17, 18)
+[34058040] Asking 0 for move
+[34058040] Asking 1 for move
+[34058070] Got 0's move
+[34058162] Got 1's move
+[34058172] ===== Move Frame 22 =========
+[34058172] ==============================
++++B++B+B++++-----a
+a+a+a++BBB+BBB+B-aa
+aaaaaa+++++B+++Aa-a
+aaaaa+BBBBBBA--aaAa
+aaaaaa++++++++B+a++
+++a+a++BB+B++B++++B
+B-+B++++B+B++++A++B
++.+++BB+B+B+A++--.A
++++++B++B+B+A..A-.A
+....+B++B...AA.A-AA
+..B++B......A-.A--A
+..........A.---AA-A
+-.........--A--A--A
+-.........-bbbAA--A
+A..B......--b-A-AA-
+-.B+++B..A-Abb-A-AA
+B++-++++B.--b-A-A-A
+++BBBB++B+Abbb--AA.
+BB+B+B++B++-bA---A-
+[34058778] PythonAI BUILT NEST AT (18, 5)
+[34058778] Asking 0 for move
+[34058778] Asking 1 for move
+[34058811] Got 0's move
+[34058910] Got 1's move
+[34058920] ===== Move Frame 23 =========
+[34058920] ==============================
+++BB+++B+B+B+----ba
+a+a+a++B+BB++BBA-aa
+aaaaaa++B+++B++-a-a
+aaaaa+BBBBBA--Baaaa
+aaaaaa+++++++B++aA+
+++a+a++B+B+B+++A++B
++BBB+++B+B+BA++-++B
++B+++BB++B+BA++A-.-
+++++++B++B++AA.A-AA
+..BB++B++BB.A-.A--A
+..++++B...A.--.AA-A
+..........-.A--A--A
+-.........--b-AA--A
+-.........-bbb-A--A
+A.B+B....A-Ab-A-A-A
+-.+++++B.--bbb-A-AA
+++B-BB+++B--b-A-A--
+++++BB+++A-bbb--AA.
+BBB++B+++B+-b-A-AbB
+[34059523] PythonAI DESTROYED OPPONENT'S NEST AT (17, 18)
+[34059523] PythonAI BUILT NEST AT (1, 7)
+[34059523] PythonAI BUILT NEST AT (3, 9)
+[34059524] Asking 0 for move
+[34059525] Asking 1 for move
+[34059545] Got 0's move
+[34059639] Got 1's move
+[34059640] ===== Move Frame 24 =========
+[34059640] ==============================
++++B++++BB+++-BA-ba
+a+a+a++BB++B++B--aa
+aaaaaa++BB++++B-a-a
+aaaaa+BBBaA-BB+aaaa
+aaaaaa+++a++++++a-A
+a+a+a++B++B+A++-Aaa
+BBBB+++B++B+B++A++B
+BB+++B+B++B+BA+A-A-
++++++B+B++++A-.A--A
+.BBB+++B+BA.--.A--A
+..+++++B.B-.A-.A--A
+..........-.--AA--A
+-.........--b--A--A
+-.B......A-Abb-A--A
+AA+++B...---b-A-A--
+-.B++B++B--bbb-A-AA
++++-+B++++--b-A-A-A
+BBB++B+++B-bbb--AAA
++BBB+B+++B+Bb--Abbb
+[34060243] JavaAI DESTROYED OPPONENT'S NEST AT (9, 3)
+[34060243] JavaAI DESTROYED OPPONENT'S NEST AT (18, 5)
+[34060244] Asking 0 for move
+[34060245] Asking 1 for move
+[34060262] Got 0's move
+[34060376] Got 1's move
+[34060386] ===== Move Frame 25 =========
+[34060386] ==============================
++++B+++++BB++-B-Aba
+a+a+a++BBB++B+B--aa
+aaaaaa++BBB++++-a-a
+aaaaa+BBBAaBB++aaaa
+Aaaaaa+++a++++++a-a
+a+a+a++BB++AB++--Aa
+BBBB++++B++B+A+-AAB
+BB+++B++B+++AB+AA-B
++++++B++B+A+--.A--A
+BB+B+B++B+B.A-.---A
+..+B++++B+B.--AA--A
+..........-.---A--A
+-........A-Ab--A--A
+AA+B.....--bbb-A--A
+--++++B..---b-A-A--
+-B++++B++B-bbb-AAAA
+ABB-+BB+++--b-A-A-A
+ABBB++++++BbbbAAAAA
++B+B+BB+++B+B-B-bbb
+[34060990] Asking 0 for move
+[34060990] Asking 1 for move
+[34061032] Got 0's move
+[34061150] Got 1's move
+[34061150] ===== Move Frame 26 =========
+[34061150] ==============================
++a+B++++++BB+-B--Aa
+a+a+a++BBBB++B+--aa
+aaaaaa+++B+B+++-a-a
+aaaaa+BBAaaB+++aaaa
+aAaaaa+++a+B++++a-a
+a+a+a++BBBAB+A+--aA
+BBBB+++++B++AB+--AA
+BB+++B+++BA+-++AAAB
++++++B+++BB+A-.---B
+B++B+B+++++.--AA---
+..+B+B++B++B---A--A
+...B....BA-A---A--A
+AA.......---b--A--A
+--++B....--bbb-A--A
+-B+++++B.---b-A-A--
+-++++B+B++Bbbb-A-AA
+AB+-+++B++B-b-A-A-A
+AABB+B++++Bbbb--AAA
+aaaB+B+B++++bBA-bbb
+[34061754] JavaAI DESTROYED OPPONENT'S NEST AT (1, 18)
+[34061755] Asking 0 for move
+[34061755] Asking 1 for move
+[34061776] Got 0's move
+[34061895] Got 1's move
+[34061904] ===== Move Frame 27 =========
+[34061905] ==============================
++a+B+++++++BB-+--bA
+a+a+a++BBBBB++B--aa
+aaaaaa+++aB+B++-a-a
+aaaaa+B+aaB++++aaaa
+aaaaaa+++aB+++++a-a
+AAa+a++BBBB+AB+--aa
+ABBB++++++A+-++---A
+BB+++B++++B+A++-AA+
++++++B++++B+--AA-B+
++++BBB+++++.---A---
+..++BB+++A+A---A--A
+AA.+BB..+B-----A--A
+--.......---b--A--A
+-B+++B...--bbb-A--A
+-+++++++B-B-b-A-A--
+-+++B+++B++bbb-A-AA
+AA+-+B++B++Bb-A-A-A
+AaBB+B+++++Bbb--AAA
+aaaB+B++B+++b+BAbbb
+[34062509] Asking 1 for move
+[34062509] Asking 0 for move
+[34062523] Got 0's move
+[34062623] Got 1's move
+[34062632] ===== Move Frame 28 =========
+[34062632] ==============================
+Aa+B++++++++BBB--ba
+a+a+a++BBBBBB++--aa
+aaaaaa+++a+++B+-a-a
+aaaaa+BBaaB++++aaaa
+aaaaaa+++aB+++++a-a
+aABBa++BBBBAB++--aa
+-A+B++++++A+A++---a
+Baa++BB+++++-+AA--+
++a++++B++++B---A-++
+++BB++B++A+A---A--A
+AA++B+B++B+----A--A
+--.+B+B.++-----A--A
+-B..B....---b--A--A
+-+++++B..--bbb--A-A
+-++++++++B+Bb-A-A--
+-A+B+++++B+bbb-A-AA
+AAB-++B++B++B-A-A-A
+AABB++B++++bBb--AAA
+aaaB+BB++B++b++Bbbb
+[34063235] JavaAI DESTROYED OPPONENT'S NEST AT (1, 7)
+[34063236] Asking 0 for move
+[34063237] Asking 1 for move
+[34063259] Got 0's move
+[34063346] Got 1's move
+[34063356] ===== Move Frame 29 =========
+[34063356] ==============================
+-ABB+++B+++++BB--ba
+a+a+a++B+BBBBB+--aa
+aaaaaa+++a++++B-a-a
+aaaaa+BBBaaB+++aaaa
+aaaaaa+++a+B++++a-a
+a-ABa++BBBA-A++--aa
+BaAaa+++++-+-+AA--a
+aaaa+B+B++++-+----+
++a+++B+B+A+A----A++
+AABB+++B+B+----AA-A
+--+++B+B+++----A--A
+--.++B+B++-----A--A
+-+BB+B...---b--A--A
+-++++++B.B-bbbb-bAA
+-A+++++++B++BAbbbA-
+--B++++++B+bbbbAb-A
+AA+-+++B++++bBAbbbA
+AA+B+B+B+B+bbBbBAAA
+aaa++B+B++++b+B+bbb
+[34063960] PythonAI DESTROYED OPPONENT'S NEST AT (15, 15)
+[34063960] PythonAI DESTROYED OPPONENT'S NEST AT (16, 14)
+[34063960] PythonAI DESTROYED OPPONENT'S NEST AT (14, 14)
+[34063960] PythonAI DESTROYED OPPONENT'S NEST AT (16, 16)
+[34063960] PythonAI DESTROYED OPPONENT'S NEST AT (14, 16)
+[34063960] JavaAI DESTROYED OPPONENT'S NEST AT (3, 6)
+[34063960] PythonAI BUILT NEST AT (3, 12)
+[34063961] Asking 0 for move
+[34063961] Asking 1 for move
+[34063978] Got 0's move
+[34064105] Got 1's move
+[34064105] ===== Move Frame 30 =========
+[34064105] ==============================
+-aAaa++BB+++++BB-ba
+a+aaa++B++B+BBB--aa
+aaaaaa+++aB++++Ba-a
+aaaaa+BBBaa++++aaaa
+aaaaaa++Ba+B++++a-a
+a-aAa++BBA-A-+AA-aa
++Baaa+++++-+-+----a
+aaAa+BB+B++A-+----+
+Aa+a++B+BB+------A+
+A-Aaa+++B++----AAAA
+--+a++B++++--------
+A-BB++BB++-----AA--
+A++B++BB.---b--A--A
+-A++++++B+Bbbbb-bAA
+--++++++++B+Abbbbb-
+-B++++++++BbbbbAb-A
+AAA-++++B+++bBAbbbA
+AA++BB++B+BbbbB+BbA
+aaaa+B++B+++b++Bbbb
+[34064710] JavaAI DESTROYED OPPONENT'S NEST AT (3, 0)
+[34064710] JavaAI DESTROYED OPPONENT'S NEST AT (3, 9)
+[34064711] Asking 0 for move
+[34064712] Asking 1 for move
+[34064731] Got 0's move
+[34064816] Got 1's move
+[34064816] ===== Move Frame 31 =========
+[34064816] ==============================
+-aaaa++++++++++BBba
+a+aaa++BB++++BBB-aa
+aaaaaa+++aB+++++B-a
+aaaaa+BBBaB++++aaaa
+aaaaaa++BB++++A+a-a
+aBaaA++B+-AB-+A--aa
++aaaa+++++-A-+----a
+aaaa+BBB+B+--+---A+
+-aAa+++B+BB-------A
+AAaAa++++B+-----AAA
+--+a+++B+++--------
+--BB+++BB+-----AAA-
+AA+B+++BB-B-b--A-AA
+b-++++++++BbAbb-bbb
+--++++++++B+bbbbbbb
+BAA+++++B++bbbbAbbb
+AA--++++B+B+bBAbbbA
+AAABBB++B++bbbB+bB-
+aaAa+B+B++++b+++Bbb
+[34065419] PythonAI DESTROYED OPPONENT'S NEST AT (18, 15)
+[34065419] PythonAI DESTROYED OPPONENT'S NEST AT (18, 13)
+[34065420] Asking 0 for move
+[34065420] Asking 1 for move
+[34065434] Got 0's move
+[34065525] Got 1's move
+[34065535] ===== Move Frame 32 =========
+[34065536] ==============================
+-aaaa+++++++++++Bba
+a+aaa++BB+++++BBBaa
+aaaaaa++Ba++++++a-a
+aaaaa+BBBaB+++Aaaaa
+aaaaaa++BBB+++-+a-a
+a+BaaA+BBB-A-A---aa
++aaaa+++++---+----a
+aaaaBB+BB+B--+----A
+-a-A++++B+BB-------
+AAAaa+++++B------AA
+--+A++++B++--------
+-BBa++++BB-----AAAA
+AAAaa+++BB+BA--A--A
+b-+a+++++++Bbbb-bbb
+BAA++++++++Bbbbbbbb
+bA-++++++B+bbbbbbbb
+AA--+++++B+BbbBAbbb
+-AAABB+++B+bbbb+BbB
+aaaA+B++B+++b+++bbb
+[34066138] JavaAI DESTROYED OPPONENT'S NEST AT (3, 12)
+[34066139] Asking 0 for move
+[34066139] Asking 1 for move
+[34066173] Got 0's move
+[34066279] Got 1's move
+[34066288] ===== Move Frame 33 =========
+[34066289] ==============================
+-aaaaa++++++++++BBa
+a+aaa+BB+B+++++BBaa
+aaaaaa+++B++++A+a-a
+aaaaa+BBaaa+++-aaaa
+aaaaaa+BBBBA++-+a-a
+a+aBa-AaaBB-A----aa
++aaaBB+a++---+----A
+aaaa+B++BB+B-+-----
+AAAaA++++B+BB----AA
+--aAa++++++B-------
+--+a+++++B+----AAAA
+A+Aa+++++BB-A--A--A
+--aaa++++BBBB--A--b
+B-+a+++++++Bbbb-bbb
++-AA++++++++bbbbbbb
+b-A+++++++BBbbbbbbb
+-AA-+B++++B+bbbBBbb
+BaAAAB++B++bbbbAbb+
+aaaaAaa++B++b+++bbb
+[34066891] JavaAI DESTROYED OPPONENT'S NEST AT (7, 5)
+[34066891] JavaAI DESTROYED OPPONENT'S NEST AT (5, 18)
+[34066892] Asking 0 for move
+[34066892] Asking 1 for move
+[34066906] Got 0's move
+[34066994] Got 1's move
+[34067004] ===== Move Frame 34 =========
+[34067004] ==============================
+-aaaaaBB+++++++B+bB
+a+aaa++B++B+++A++Ba
+aaaaaaa++aB+++-+a-a
+aaaaaBaaBaaA++-aaaa
+aaaaaaAa+BBBA+-+a-a
+a+aaBBaaa+BB-----aa
+AaaaaB+a++---+----a
+AAAaAaa++BB+B+---AA
+-a-A-a++++B+BB-----
+--aaa+++++++B--AAAA
+A-Aa++++++B-A--A---
+A+-a++++++BBB--A---
+B-aaa+++++BBb--A--b
+b-AA+++++++bbbb-bbb
++---+++++++Bbbbbbbb
+b--A+B+++++BbbbbBbb
+B-AA+++++++Bbbbbbbb
++a-AAA+B+++bbbbBbb+
+aaaaaAa+++B+b+++Bbb
+[34067607] JavaAI DESTROYED OPPONENT'S NEST AT (6, 3)
+[34067607] JavaAI DESTROYED OPPONENT'S NEST AT (5, 7)
+[34067608] Asking 0 for move
+[34067608] Asking 1 for move
+[34067633] Got 0's move
+[34067698] Got 1's move
+[34067708] ===== Move Frame 35 =========
+[34067708] ==============================
+Baaaaa++++++++A++ba
+a+aaa++BB++B++-++aa
+aaaaaBa++a+A++-+aBa
+aaaaaaAaaaa-++-aaaa
+aaaaaaaaBaBBB+-+a-a
+A+aaB+aaa+++B----aa
+AAAaAa+a++B-B+---AA
+aaaAaaa+++B+++-----
+-a-a-a+++++++BBAAAA
+A-aaa++++++++--A---
+---A+++++++BB------
+-A-a+++++++B+-AA---
++-aaa++++++BB--A--B
+b--AA++++++bbbb-bbb
++---+B++++++BbbbBbb
+b---A++++++bBbbbbbb
++B-AA+++++++BbbBbbb
++a--AA+++++bbbb+Bb+
+aaaaaaAB+++Bb++Bbbb
+[34068311] Asking 0 for move
+[34068311] Asking 1 for move
+[34068336] Got 0's move
+[34068387] Got 1's move
+[34068396] ===== Move Frame 36 =========
+[34068396] ==============================
++Baaaa++++++++-++ba
+a+aaaB+BBB+A++-++aa
+aaaaaaA++a+-++-+a+a
+aaaaaaaaaaaB++-aaBa
+aaaaaaaa+B+B+B-+a-a
+AAAaA+aaa++++B---AA
+-aaAaa+a+++B++----a
+aaaaaaa++++B++--AAA
+Aa-a-a+++++++++B---
+--aaa++++++++B-----
+---aA+++++++BB-----
+---a++++++++BAAA---
++Aaaa+++++++BB-A-Bb
+b--aA++++++bbbb-Bbb
++---++++++++bBbbbbb
+b----A+++++bbBbBbbb
+++B-AA++++++bBbbBbb
++a---AA++++bbbbBbb+
+aaaaaaaA++++B+A+bbb
+[34068998] Asking 0 for move
+[34068998] Asking 1 for move
+[34069019] Got 0's move
+[34069062] Got 1's move
+[34069072] ===== Move Frame 37 =========
+[34069072] ==============================
+[34069074] ********* Game over! *********
+[34069076] Score breakdown: 
+
+=== Team JavaAI ===
+Missed turns: 0
+
+Non-permanent tiles: 75
+Permanent tiles: 97 * 2
+---------------------------------
+Total Score: 269
+
+=== Team PythonAI ===
+Missed turns: 0
+
+Non-permanent tiles: 140
+Permanent tiles: 49 * 2
+---------------------------------
+Total Score: 238
+
+
+Winner: JavaAI
+[34073882] WARNING: Game result file is being overwritten!
++aBaaa+A+++A++-++ba
+a+aaa+AaaBB-++-++aa
+aaaaaaaa+a+B++-+a+a
+aaaaaaaaaaaB++-aaaa
+AAAaaaaa+aB+++B+a-A
+a-aAaAaaa+++++B--aa
+-aaaaa+a++++B+--AAA
+Aaaaaaa+++++B+-----
+-a-a-a++++++++++B--
+--aaa+++++++++B----
+---a-A+++++++B-----
+---a+++++++++BAA---
+A-aaa+++++++bBbbB+b
+b--a-A+++++bbbbbbbb
++---++++++++bbBBbbb
+b-B---A++++bbbBbBbb
++++--AA+++++bbBBbbb
++a---aAA+++bbbb+bb+
+aaaaaaa-++++bB-Abbb
+[34074509] PythonAI DESTROYED OPPONENT'S NEST AT (15, 12)
+[34074509] JavaAI DESTROYED OPPONENT'S NEST AT (7, 1)
+[34074510] PythonAI ELIMINATED OPPONENT NESTS .
+[34074510] JavaAI ELIMINATED OPPONENT NESTS .
+Exited game loop
+[34074944] Recording complete.

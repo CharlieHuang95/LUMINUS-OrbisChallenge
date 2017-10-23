@@ -1,0 +1,1 @@
+{"mapName":"Open Map","playerPaths":["Bots/JavaAI/PlayerAI.java","Bots/PythonAI/PlayerAI.py"],"maxResponseTime":768,"turnLimit":257,"portNumber":4461,"serverTimeout":0,"playerLaunchTypes":["AI","AI"]}
